@@ -17,6 +17,7 @@
 * baidu front-end team https://github.com/baidufe	
 * Baidu FEX team https://github.com/fex-team
 * BaiduPS https://github.com/BaiduPS 
+* ops-baidu https://github.com/ops-baidu
 
 ## 网易
 
